@@ -1,3 +1,6 @@
+'''
+Data utilities for models, mainly aims to clean data.
+'''
 import pandas as pd
 
 from  usrCut import *
