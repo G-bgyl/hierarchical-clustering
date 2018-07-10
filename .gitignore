@@ -1,0 +1,16 @@
+/data/*.csv
+/data/*.txt
+/data/*.docx
+
+/outputs/*.csv
+
+/pic/*.png
+
+/pickles/*.p
+
+/script
+
+.idea/
+
+model/*.md
+model/__pycache__/
